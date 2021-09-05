@@ -1,0 +1,51 @@
+body{
+  background-image: url("https://dph.georgia.gov/sites/dph.georgia.gov/files/styles/3_2_2106px_x_1404px/public/2021-04/GettyImages-1210455332.jpg?h=32b23554&itok=1VqRSPk7");
+  background-position: center,center;
+  background-repeat: no-repeat, no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+.app-container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.btn {
+  width: 100px;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px ;
+  margin: 30px;
+}
+
+.green {
+  color: green;
+  text-align: center;
+  font-size: 30px;
+  background-color: rgb(248, 243, 243);
+  width: 150px;
+  text-align: center;
+  margin: 50px auto;
+}
+
+.orange {
+  color: rgb(233, 17, 17);
+  text-align: center;
+  background-color: rgb(248, 242, 242);
+  width: 250px;
+  text-align: center;
+  margin: 50px auto;
+}
+.input{
+  width: 200px;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px ;
+  
+}
+.title{
+  margin: auto;
+  color: white;
+  text-align: center;
+}
