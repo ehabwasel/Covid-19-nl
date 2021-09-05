@@ -62,4 +62,5 @@ The final grade will then be those points divided by 3 (to get a number between 
 2. In case you copy (a line of) code from somewhere else, you must place a reference. Otherwise it is seen as plagiarism. 
 3. No contact with others during the test. 
 4. Do not share your test with anybody
-5. Hand in your work on time. You have 4 hours in total.
+5. 
+6. Hand in your work on time. You have 4 hours in total.
