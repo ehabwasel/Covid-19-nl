@@ -2,7 +2,7 @@
 ### Please find live link on https://covid-19-netherlands-hyf.netlify.app/
 ## display nubers of Recovery and confirmed casess using react hooks and react routs 
 <img width="618" alt="Screen Shot 2021-09-05 at 10 30 04 PM" src="https://user-images.githubusercontent.com/72751605/132140808-267095bb-5b23-42bb-b5ad-d720b3de9efb.png">
-# 2 number of Recoverd casess 
+***2 number of Recoverd casess 
 <img width="622" alt="Screen Shot 2021-09-05 at 10 31 07 PM" src="https://user-images.githubusercontent.com/72751605/132140830-d700b710-97cc-4a54-8745-8cb0ba78b0f4.png">
 # number of confirmed  casess
 <img width="622" alt="Screen Shot 2021-09-05 at 10 31 17 PM" src="https://user-images.githubusercontent.com/72751605/132140868-42e3fb23-5b29-49e8-9630-d31b5a8f2ab0.png">
