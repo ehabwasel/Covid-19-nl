@@ -1,6 +1,36 @@
-### Covid 19 App using https://api.covid19api.com/country/nl Api 
-### Please find live link on https://covid-19-netherlands-hyf.netlify.app/
-#### display numbers of Recovery and confirmed casess using react hooks and react routs 
+<br />
+<p align="center">
+  <a href="https://covid-19-netherlands-hyf.netlify.app/">
+   <img src="https://covid-19.sciensano.be/sites/default/files/inline-images/covid_illustration_1.jpg" alt="Logo" width="200" height="100">
+<h2 align="center"> Covid 19 App :100:</h2>
+<p align="center"> :pushpin: Please  Cick on image to find the live demo 	:rocket:	:rocket: </p>
+  </a>
+   
+       
+<details open="open">
+  <summary><h3>:point_right: Table of Contents</h3></summary>
+  <ol>
+    <li>
+      <a href="#about-the-project"><h4> :wave: About The Game</h4></a> 
+      <ul>
+        <li>This is a small react app using  https://api.covid19api.com/country/nl Api , to fetch data (recoverd and confermed casess) accoording to the choosen dates </li>
+      </ul>
+            <ul>
+        <li>display numbers of Recovery and confirmed casess using react hooks and react routs </li>
+      </ul>
+      
+  </li>
+    
+  </ol>
+</details>
+
+
+
+
+
+
+
+
 
 <img width="1099" alt="Screen Shot 2021-09-05 at 10 46 48 PM" src="https://user-images.githubusercontent.com/72751605/132141090-e893ec6e-6e65-4ee6-8503-29d711513cb2.png">
 
