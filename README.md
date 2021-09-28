@@ -11,7 +11,7 @@
   <summary><h3>:point_right: Table of Contents</h3></summary>
   <ol>
     <li>
-      <a href="#about-the-project"><h4> :wave: About The Game</h4></a> 
+      <a href="#about-the-project"><h4> :wave: About The App</h4></a> 
       <ul>
         <li>This is a small react app using  https://api.covid19api.com/country/nl Api , to fetch data (recoverd and confermed casess) accoording to the choosen dates </li>
       </ul>
